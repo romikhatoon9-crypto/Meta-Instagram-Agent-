@@ -1,0 +1,14 @@
+{
+  "appId": "com.aistudio.sufisecurity.zqkmpl",
+  "appName": "Sufi Security",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#0866FF"
+    }
+  }
+}

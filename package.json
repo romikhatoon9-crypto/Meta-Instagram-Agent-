@@ -1,0 +1,15 @@
+{
+  "name": "sufi-account-security-manager",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sufi Account Security Manager - Authorized Meta Instagram/Facebook security reviews and suspension tracking",
+  "scripts": {
+    "build:android": "gradle assembleRelease",
+    "test:android": "gradle :app:testDebugUnitTest",
+    "backend:start": "cd backend && npm start"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
